@@ -1,0 +1,15 @@
+Student,FirstName,LastName,Gender,Age,Group,Activities
+Student,Thuo,Kairo,M,19,2,AISEC 
+
+Club,Name,Capacity,MaleCount,FemaleCount
+Club,Journalism Club,60,0,0
+Club,Red Cross Society,60,0,0
+Club,AISEC,60,1,0
+Club,Business Club,60,0,0
+Club,Computer Science Club,60,0,0
+
+Sport,Name,Capacity,MaleCount,FemaleCount
+Sport,Rugby,20,0,0
+Sport,Athletics,20,0,0
+Sport,Swimming,20,0,0
+Sport,Soccer,20,0,0
